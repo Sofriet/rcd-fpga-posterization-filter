@@ -1,6 +1,6 @@
 # FPGA Posterization Filter
 
-Course: Reconfigurable Computing Design (CESE4090), TU Delft
+Course: Reconfigurable Computing Design (CESE4090), TU Delft \n
 Authors (Group 4): Mingwu Liu, Sofie Vos, Hruday Ramachandra
 
 A real-time posterization video filter for the PYNQ-Z2 FPGA platform. A custom
